@@ -20,7 +20,7 @@ like a agenda
 
 
 
- | ![Image description](https://github.com/NajdereT/Nmusic/blob/master/2-Screens-Dark-Nmusic.png)|
+ | ![Image description](https://github.com/NajdereT/StageNL/blob/master/oneplus6t_mockup_dribbble.png)|
  |--|
 
 
