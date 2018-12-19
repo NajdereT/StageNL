@@ -13,8 +13,8 @@ like a agenda
 
 
 
-<img src="https://github.com/NajdereT/Nmusic/blob/master/google-play-badge.png "  height="100" >
-
+<p align "center">This app will soon be available on the play store
+</p>
 
 <H2>Art</H2>
 
